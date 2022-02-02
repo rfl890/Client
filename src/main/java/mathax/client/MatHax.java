@@ -65,7 +65,7 @@ import java.util.List;
 /*/------------------------------------------------------------------/*/
 /*/ THIS CLIENT IS A FORK OF METEOR CLIENT BY MINEGAME159 & SEASNAIL /*/
 /*/ https://meteorclient.com                                         /*/
-/*/ https://github.com/MeteorDevelopment/meteor-client               /*/
+/*/ https://github.com/MeteorDevelopment/meteor-client BUT I CODED NOTHING AT ALL AND SKIDDED EVERYTHING FROM METEOR REJECTS AND METEOR CRASH ADDONS               /*/
 /*/------------------------------------------------------------------/*/
 /*/ Music player used from Motor Tunez made by JFronny               /*/
 /*/ https://github.com/JFronny/MotorTunez                            /*/
@@ -110,10 +110,10 @@ public class MatHax implements ClientModInitializer {
         return Arrays.asList(
 
             // SPLASHES
-            Formatting.RED + "MatHax on top!",
-            Formatting.GRAY + "Matejko06" + Formatting.RED + " based god",
-            Formatting.RED + "MatHaxClient.xyz",
-            Formatting.RED + "MatHaxClient.xyz/Discord",
+            Formatting.RED + "MatHax worst!",
+            Formatting.GRAY + "Matejko06" + Formatting.RED + "unbased skid",
+            Formatting.RED + "meteorclient.net",
+            Formatting.RED + "meteorclient.net",
             Formatting.RED + Version.getStylized(),
             Formatting.RED + Version.getMinecraft(),
 
@@ -121,7 +121,7 @@ public class MatHax implements ClientModInitializer {
             Formatting.YELLOW + "cope",
             Formatting.YELLOW + "I am funny -HiIAmFunny",
             Formatting.YELLOW + "IntelliJ IDEa",
-            Formatting.YELLOW + "I <3 nns",
+            Formatting.YELLOW + "I <3 sucking cock",
             Formatting.YELLOW + "haha 69",
             Formatting.YELLOW + "420 XDDDDDD",
             Formatting.YELLOW + "ayy",
@@ -129,8 +129,8 @@ public class MatHax implements ClientModInitializer {
             Formatting.YELLOW + "owned",
             Formatting.YELLOW + "your mom :joy:",
             Formatting.YELLOW + "BOOM BOOM BOOM!",
-            Formatting.YELLOW + "I <3 forks",
-            Formatting.YELLOW + "based",
+            Formatting.YELLOW + "I <3 skids",
+            Formatting.YELLOW + "unbased",
             Formatting.YELLOW + "Pog",
             Formatting.YELLOW + "Big Rat on top!",
             Formatting.YELLOW + "bigrat.monster",
